@@ -1,0 +1,27 @@
+customer_message,intent
+"My Spotify app keeps crashing when I open it",technical_issue
+"I can't log into Spotify on Chrome",account_access
+"Spotify keeps showing me an error",technical_issue
+"My Spotify volume is extremely low",playback_audio
+"Shuffle isn't working properly",playback_audio
+"Songs keep stopping while playing",playback_audio
+"How do I cancel Premium?",subscription
+"I want to upgrade to Premium",subscription
+"Can I get the student discount?",subscription
+"I was charged twice for Spotify",billing_payment
+"When will my pending payment be refunded?",billing_payment
+"My card was charged but my subscription isn't active",billing_payment
+"Why isn't this song available in my country?",content_availability
+"Why was this album removed from Spotify?",content_availability
+"When will Spotify launch in my country?",content_availability
+"Can you bring back the dislike button?",feature_request
+"Please add this feature",feature_request
+"When are you bringing back this option?",feature_request
+"How does Spotify work offline?",general_information
+"Is Spotify available on Windows?",general_information
+"Can I use Spotify in my browser?",general_information
+"Thanks!",non_support
+"Will do!",non_support
+"Okay, thanks!",non_support
+"Cool, appreciate it!",non_support
+"Sent you a DM!",non_support

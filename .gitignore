@@ -1,0 +1,22 @@
+# Environment variables & API keys
+.env
+.env.*
+*.env
+
+# Large raw datasets (not checked in to git)
+data/twcs.csv
+
+# Python virtual environment & cache
+venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# OS and IDE files
+.DS_Store
+.vscode/
+.idea/
+*.swp

@@ -1,0 +1,126 @@
+customer_message,intent
+My Spotify app keeps crashing when I open it,technical_issue
+I can't log into Spotify on Chrome,account_access
+Spotify keeps showing me an error,technical_issue
+My Spotify volume is extremely low,playback_audio
+Shuffle isn't working properly,playback_audio
+Songs keep stopping while playing,playback_audio
+How do I cancel Premium?,subscription
+I want to upgrade to Premium,subscription
+Can I get the student discount?,subscription
+I was charged twice for Spotify,billing_payment
+When will my pending payment be refunded?,billing_payment
+My card was charged but my subscription isn't active,billing_payment
+Why isn't this song available in my country?,content_availability
+Why was this album removed from Spotify?,content_availability
+When will Spotify launch in my country?,content_availability
+Can you bring back the dislike button?,feature_request
+Please add this feature,feature_request
+When are you bringing back this option?,feature_request
+How does Spotify work offline?,general_information
+Is Spotify available on Windows?,general_information
+Can I use Spotify in my browser?,general_information
+Thanks!,non_support
+"Okay, thanks!",non_support
+"Cool, appreciate it!",non_support
+Sent you a DM!,non_support
+please help me with my login.,account_access
+how do I get my account to family pack please. Settings don’t show any upgrade options. Thank you 🙏🏾,account_access
+Is there a way to reset my listening history? I let my son have access to my account while I was traveling out of range of Spotify. Now everything is populated with his songs and recommendations. I am opening a family account to let him have his own account now.,feature_request
+Hey how do I block a song from your Christmas playlists?,feature_request
+what is happening with the web player? Same issue as two days ago. Help! #Spotify,technical_issue
+I joined a Family plan and updated my address to reflect my current home address but it does not update my home zip code in my account.,account_access
+"My Facebook account is no longer active so I am unable to log into new devices, however I am still somehow logged into my account on several devices... how can I log in using my user ID: 1252945587",account_access
+I used my FB mail address to register for Premium. But I cannot remember the password and cannot access FB mail anymore.. HELP,account_access
+"The “time capsule” playlist is suggesting music that I haven’t listened to in 15 years, so I am curious as to how you even know this info.",general_information
+"also, how do I import my iTunes smart playlist songs to Spotify?",general_information
+I use Firefox Quantum on Mac OS Sierra version 10.12.6 on a late 2009 iMac desktop. Fairly often Spotify just won't let me play any music. I have to totally close Spotify and re-login for it to work again. Sometimes a browser reset is also necessary. Thanks for looking into this.,technical_issue
+"hey spotify always the same , i listen the same music every day , and the ""daily discover"" is just music i don't like ....just sad men ....every day i put my headphones and i want a new discovery but always end in my own playlists..😑",feature_request
+can y’all add a feature where I can watch/ listen to adds for more skips? I’m too poor for premium,feature_request
+"Yep, hacked. Your anti fraud systems are shit. A couple of accounts added to my family account. Can you please check what else has been done to my account?",account_access
+"Several updates later, and I still want the lyrics feature back :(",feature_request
+"I want to change username to artist name to keep followers, playlists etc. Can this be done? Been a long time paid user.",general_information
+"But this still doesn't explain it. I can find it through the web player and from Google which takes me to the album on the app, so the album is there. However, if I look for the album by searching in the app for it, it's not. That tells me the search function is different. ?",content_availability
+"this layout looks nice, but really isn’t friendly to left handed users.. my thumb isn’t long enough to hit play!",feature_request
+I can't access any of my saved albums on my TV? I have a bunch of other ways to play my music on my PREMIUM PLAN ACCOUNT but I was hoping my smart TV could without searching for them all individually. This is all I see. All I can say is....Really?!,account_access
+It doesn’t let me click the filter bar when editing my playlist and there is no option in the (...) next to the song that says delete,playback_audio
+. how can I unlink Spotify account from my Facebook account?,account_access
+Could you try adding more an error message when a file wont play? Could you try building in a way to resymcing specific files?,feature_request
+Hey Spotify my password was reset by you guys but your password reset page isn’t working! It gives a CSRF invalid token error! Please help!,technical_issue
+I've been trying to activate premium via for almost 12 hrs now. Still haven't received any messages or PIN. Is there something wrong with the services right now??,billing_payment
+since 5 days can nolonger longer log on my Spotify WebPlayer ...a reload red messages pop up im on premium account?,technical_issue
+"Desktop app isn't playing songs, but it's playing on my phone. I have restarted and uninstalled the app with no joy",playback_audio
+what's up with removing the browse/discover? It is the major reason I pay a premium family subscription!,feature_request
+"Hello, I really hope u guys put ""mic drop"" in one of most popular playlists ✌🏽❤️",feature_request
+is there a reason yall play more suggested tracks than the actual music someone's tryna listen to lmao. 10 suggested tracks to 1 album track is kinda ridiculous.,feature_request
+"Okay ppl, I can't sign up. With app when I fill email and password i got message that no internet connection but everything is working well. Via website it did work at all. Need your help",technical_issue
+Hi I try to choose my smart post paid 4 da payment but unfortunetly it cannot contine plz help me. Thank u,billing_payment
+I lost premium do to lack of funds in my account. I added funds and I can't go back to premium with the same card.,billing_payment
+hello I need help I am trying to log in to my account but I forgot my password and i cant remember the email address i used for the account what do I do??,account_access
+It did work but it says I already had an offer like that even tho my account is brand new.,subscription
+"tried playing a song from that album page and this happens - on playlists, everything's normal",playback_audio
+"how am I supposed to download/save new albums on my account if my library is full? This is a big issue for me, having premium",general_information
+Why do you constantly remove my downloaded albums from my phone,technical_issue
+Yeah it's been doing it for a while but I made a new playlist to test fully. So it's not just a new update? Do I try redownloading the app?😊,technical_issue
+Hi. I can't log on to my premium account. Are there any problems at your end?,technical_issue
+is there anyway to move songs around so they're in my order and not the order of when I added them...if that makes sense?,feature_request
+"min, cara berhenti berlangganan spotify premium tapi lupa password email bagaimana ya 😥",subscription
+"Hi! When will you fix ""4 - Oops something went wrong, please try again."" problem in managing family accounts?",technical_issue
+The link you sent talks about songs being removed. Im talking about the entire Spotify application going. See the picture. Always happening.,technical_issue
+Al necessary updates done. Empty cache done... web based spotify is faster. But I think my Spotify Premium deserves to be fast.,technical_issue
+"min, promo yg 3 bulan 49.990 apakah berlaku untuk yg sudah pernah premium?",subscription
+I can't subscribe to spotify premium here in Canada as I only have a UK bank card. Please help me sort this out.,billing_payment
+"feature request with more than 3000 votes, fully ignored",feature_request
+My kids wanted premium but your student deals are only for college/ uni kids. Won't you consider the younger kids that are addicted to Spotify too?,subscription
+"Hi, I discovered someone was listening through my account, I clicked sign out everywhere and changed password, anything else I should do?",account_access
+Where is my Premium account? I can't cancel account if you are charging me for something I can't log into! FIX IT!,account_access
+how do you cancel. Oh Spotify tells you how but doesnt supply an easy way. #rippedoffbyspotify,subscription
+"uhh so somehow i can’t even log into my spotify, but my failed log in attempt reactivated my facebook account? honestly what the fuck",account_access
+hey good morning any chance that we here in nz will be getting this feature soon on Spotify. As sad i can’t watch it here in nz 👼 and would so love to.,feature_request
+"Hi, different browser worked, thanks :-) ! Next hurdle - sorry - sent an invitation to him and he got a mail with a code and an accept button / pagelink. After browsig to the link, he needs to logon, but with which account ? Mine ? He does not have one of his own.",account_access
+Fantastic response timeframe! Many suns ago I had a Spotify account. I got an apple device for work and am back to establish a Spotify monthly subscription and it’s difficult.,general_information
+"Hi I want spotify premium student but why isn't there an iDeal or PayPal option? Just like every student, I don't have a creditcard.",subscription
+"add lyrics to all songs on ur app pls, apple music can do it u can too",feature_request
+It sometimes takes forever to scroll ALL the way down to get to the singles. Just make an option to go straight to singles.,feature_request
+I'm trying to authorize payment for my premium account and the website won't take payment! Funds are available whats wrong?,billing_payment
+I am trying to sign up for the invite for the premium family subscription but after I sign in all the information it states there is error try again,subscription
+. Set up family premium. put wrong address. canceled. now can't set up new account w my email address. U make me pay? Help!,account_access
+"Looks like you're down again today, won't play on my desktop in Chrome or Firefox.",playback_audio
+2/2 and none of my playlists have copied over. I paid £9.99 on 30th for premium. Thanks.,technical_issue
+my spotify won’t accept any of my cards for the payments. what do i do.,billing_payment
+"can you please add a ""mix-button""? So you can mix the songs on you're playlist?",feature_request
+i have a problem with my account premium. My spotify username is 11134176350,account_access
+my friends invited me on spotify family through email. But every time i fill the address its always said somethings went wrong,technical_issue
+". Hello, I really hope u guys put ""mic drop"" in one of most popular playlists 😊❤",feature_request
+"every time I try to reset password it says ""The CSRF token is invalid. Please try to resubmit the form.""",technical_issue
+Is there a limit on the number of playlists I can have?,general_information
+"Hello #Spotify. 26 Sept I reported a bug, wha'ts the status ? I still can't drag playing #songs to #playlists :(((( isn't this a big issue?",technical_issue
+"I have Spotify premium and have playlists downloaded but when using bus WiFi none of my downloaded playlists show up and it won’t connect, even though the WiFi is working fine",technical_issue
+Fix the comments not appearing on the lossless audio idea. Tried it on multiple browsers. The last few pages on comments don't appear..,technical_issue
+I clicked the link and logged into my account and it charged me 9.99?? That’s not what’s advertised?!,billing_payment
+"My Premium for Family account is all messed up. My desktop Spotify program recognizes that I subscribe to Premium for Family, but my iPhone 6 app does not. My desktop program will not let me send offers to iPhone owners that live in the same house as I do. Help!",technical_issue
+Excuse me . Your web player for Chrome is not working. Please inquire,technical_issue
+This is a workaround for when the device is on 4g and something on the home network is playing. Having the devices imonbthe same network would still cause this problem. Why would the Android Spotify app even force other apps to pause?!,technical_issue
+"hello, i wanna ask. How bout the student who doesn't have any cc for payment? Can we still get that promo?",subscription
+Why are my devices not doing the cool thing when I play the #StrangerThings albums on ? 😭,technical_issue
+"Hello, recently I moved from Canada to the US for School, and wanted to sign up for the student discount. However, when I try to input my US Card, it gives me a ""the selected card is not available in this country"". And I am unable to change the country as well",billing_payment
+why do you guys always add britney spears to the Easy 00s playlist and then remove her?,content_availability
+I have now tried a different computer on a different network with a different browser (Edge) &amp; still can't push play.,playback_audio
+"hi , if im a premium account holder and want to subscribe a premium for family account, do i have to terminate my earlier account? or i can just subscribe for the premium for family?",subscription
+web player gets broken sound in Chrome and does not work at all in Safari. Nice work.,playback_audio
+"In , if the about:config flag ""media.autoplay.enabled"" is set to false then the webplayer will NEVER work This flag is important to stop nasty web sites that bombard users with videos or ad-videos the user has no control over Please fix, I refuse to disable flag",technical_issue
+already tried with an other computer and for the password dont need it im loggin with my facebook account !,account_access
+notifications still stop my music so i have to force quit the app and play the song back over.,playback_audio
+"Any known issues at the moment with the facebook interface? Can't seem log into the app via facebook at the moment, oh and: this is on the screen in chrome:",technical_issue
+When uve thought u have gotten a good deal 3mos for only 9 but it was overall a scam my card s already deducted but my subscription is s still free fixed this,billing_payment
+"hiya, I've been charged for the full £9.99 when I usually get charged as a student and this month it has gone up? can you help me?",billing_payment
+"hey, don't know if you know, but you can't control the volume on the Xbox one app from your phone like you could the computer. Would be very appreciated if you updated.",playback_audio
+Hey feature request. A button that stops Christmas songs playing before 1st December. Thanks.,feature_request
+"A day later, computer turned off overnight, and it's still frozen on the same song. The player isn't responding to any clicks.",playback_audio
+ok thx,non_support
+And this is why I’ll love Spotify forever and why you are my favorite music platform. Thank you! 🙏🏽💯❄️,non_support
+Fasho thank you for the help,non_support
+"why is this album on Spotify if it's not playable? It would be super if was available, THIS IS #2NE1 playlist would be complete if it had all the songs from their first mini album",content_availability
+why aren’t you available in India..,content_availability
+Why is speed gang still not on Spotify 😒 get your shit together,content_availability
+"where's Bonzo goes to Bitburg by Ramones? In fact, the whole album, Animal boy, is not available. Wtf.",content_availability
